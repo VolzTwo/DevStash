@@ -51,7 +51,7 @@ function App() {
                   href={bookmark.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-sm font-medium text-blue-400 hover:text-blue-300"
+                  className="text-sm font-medium text-blue-400"
                 >
                   Open
                 </a>
